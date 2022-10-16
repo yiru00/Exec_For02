@@ -1,0 +1,15 @@
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/bin/Debug/net6.0/Exec_For02
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/bin/Debug/net6.0/Exec_For02.deps.json
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/bin/Debug/net6.0/Exec_For02.runtimeconfig.json
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/bin/Debug/net6.0/Exec_For02.dll
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/bin/Debug/net6.0/Exec_For02.pdb
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.csproj.AssemblyReference.cache
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.AssemblyInfoInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.AssemblyInfo.cs
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.csproj.CoreCompileInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.dll
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/refint/Exec_For02.dll
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.pdb
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/Exec_For02.genruntimeconfig.cache
+/Users/jiangyiru/Desktop/practice/Exec_For02/Exec_For02/obj/Debug/net6.0/ref/Exec_For02.dll
